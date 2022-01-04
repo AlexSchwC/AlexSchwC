@@ -1,4 +1,7 @@
-### Hi there 👋
+### Heyo! Eu sou Alexandre Schwanke, prazer!
+
+![Alex Status](https://github-readme-stats.vercel.app/api?username=AlexSchwC&show_icons=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSchwC&layout=compact)](https://github.com/AlexSchwC/github-readme-stats)
 
 <!--
 **AlexSchwC/AlexSchwC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
