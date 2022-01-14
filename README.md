@@ -1,6 +1,6 @@
 <h1 color="orange">### Heyo! Eu sou Alexandre Schwanke, prazer!</h1>
 
-## Sou um estudante de FullStack Front-End, atualmente focando em JavaScript.
+## Sou um estudante de Web Development Full-Stack, atualmente focando em JavaScript.
 
 <div align="center">
   <img align="center" width="48%" height="180em" display="inline" src="https://github-readme-stats.vercel.app/api?username=AlexSchwC&show_icons=true&theme=slateorange">
