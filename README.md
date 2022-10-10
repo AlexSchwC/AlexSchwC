@@ -1,8 +1,8 @@
 <h1 color="orange">### Olá! Eu sou Alexandre Schwanke, prazer!</h1>
 
-## Sou um estudante do curso +Devs2Blu, formação Fullstack focada em C# (.Net).
+# Sou um estudante do curso +Devs2Blu, formação Fullstack focada em C# (.Net).
 
-# Porém ja estudei muito JavaScript e DesenvolvimentoWeb
+## Porém ja estudei muito JavaScript e DesenvolvimentoWeb
 
 <div align="center">
   <img align="center" width="48%" height="180em" display="inline" src="https://github-readme-stats.vercel.app/api?username=AlexSchwC&show_icons=true&theme=slateorange">
