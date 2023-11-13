@@ -1,6 +1,6 @@
 <h2 color="orange">### Hello! Eu sou Alexandre Schwanke, prazer!</h2>
 
-# Sou um estudante do curso +Devs2Blu, formação Fullstack focada em C# (.Net).
+# Desenvolvedor Júnior Fullstack
 
 ## Porém ja estudei muito JavaScript e DesenvolvimentoWeb
 
